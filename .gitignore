@@ -1,2 +1,4 @@
 
 *.pass
+
+.ipynb_checkpoints/
